@@ -1,0 +1,2106 @@
+
+html {
+	font-size:62.5%;
+}
+* {
+	margin: 0;
+	padding: 0;
+}
+ul, li {
+	list-style: none;
+}
+input {
+	border: none;
+}
+body {
+  width: 144rem;
+}.courseworks-vWA {
+  width: 100%;
+  overflow: hidden;
+  position: relative;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  background-color: #ffffff;
+}
+.courseworks-vWA .header-1-ZJE {
+  width: 100%;
+  height: 110.1rem;
+  position: relative;
+  overflow: hidden;
+  background-color: #ffffff;
+  flex-shrink: 0;
+}
+.courseworks-vWA .header-1-ZJE .background-FaN {
+  width: 144rem;
+  height: 90.7rem;
+  position: absolute;
+  left: 0;
+  top: 0;
+  overflow: hidden;
+}
+.courseworks-vWA .header-1-ZJE .background-FaN .hero-8-bg-shape-cover-a6r {
+  width: 144rem;
+  height: 75.5411rem;
+  position: absolute;
+  left: 0;
+  top: 0;
+  overflow: hidden;
+}
+.courseworks-vWA .header-1-ZJE .background-FaN .hero-8-bg-shape-cover-a6r .none-WFQ {
+  width: 144rem;
+  height: 72.5rem;
+  position: absolute;
+  left: 0;
+  top: 0;
+  object-fit: contain;
+  vertical-align: top;
+}
+.courseworks-vWA .header-1-ZJE .background-FaN .hero-8-bg-shape-cover-a6r .none-FCz {
+  width: 63.0226rem;
+  height: 63.8411rem;
+  position: absolute;
+  left: 74.2rem;
+  top: 11.7rem;
+}
+.courseworks-vWA .header-1-ZJE .background-FaN .hero-8-bg-shape-cover-a6r .none-FCz .ellipse-95-mSE {
+  width: 63.0226rem;
+  height: 63.0226rem;
+  position: absolute;
+  left: 0;
+  top: 0;
+  border: solid 0.1364rem #ffc6d4;
+  box-sizing: border-box;
+  border-radius: 31.5113rem;
+}
+.courseworks-vWA .header-1-ZJE .background-FaN .hero-8-bg-shape-cover-a6r .none-FCz .ellipse-95-cLN {
+  width: 48.2901rem;
+  height: 48.2901rem;
+  position: absolute;
+  left: 7.3662rem;
+  top: 7.3663rem;
+  border: solid 0.1364rem #ffc6d4;
+  box-sizing: border-box;
+  border-radius: 24.145rem;
+}
+.courseworks-vWA .header-1-ZJE .background-FaN .hero-8-bg-shape-cover-a6r .none-FCz .ellipse-95-ieJ {
+  width: 31.1021rem;
+  height: 31.1021rem;
+  position: absolute;
+  left: 15.9602rem;
+  top: 15.9603rem;
+  border: solid 0.1364rem #ffc6d4;
+  box-sizing: border-box;
+  border-radius: 15.551rem;
+}
+.courseworks-vWA .header-1-ZJE .background-FaN .hero-8-bg-shape-cover-a6r .none-FCz .ellipse-95-EsY {
+  width: 18.0065rem;
+  height: 18.0065rem;
+  position: absolute;
+  left: 22.5082rem;
+  top: 22.5081rem;
+  border: solid 0.1364rem #ffc6d4;
+  box-sizing: border-box;
+  border-radius: 9.0032rem;
+}
+.courseworks-vWA .header-1-ZJE .background-FaN .hero-8-bg-shape-cover-a6r .none-FCz .ellipse-96-kL6 {
+  width: 12.1407rem;
+  height: 12.1407rem;
+  position: absolute;
+  left: 25.3729rem;
+  top: 25.3728rem;
+  background-size: 100% 100%;
+  background-repeat: no-repeat;
+  background-position: center;
+  background-image: url('../assets/ellipse-96-bg-ArJ.png');
+  border-radius: 6.0704rem;
+}
+.courseworks-vWA .header-1-ZJE .background-FaN .hero-8-bg-shape-cover-a6r .none-FCz .ellipse-96-den {
+  width: 8.1848rem;
+  height: 8.1848rem;
+  position: absolute;
+  left: 3.2738rem;
+  top: 31.5113rem;
+  background-size: 100% 100%;
+  background-repeat: no-repeat;
+  background-position: center;
+  background-image: url('../assets/ellipse-96-bg-e1t.png');
+  border-radius: 4.0924rem;
+}
+.courseworks-vWA .header-1-ZJE .background-FaN .hero-8-bg-shape-cover-a6r .none-FCz .ellipse-96-jhp {
+  width: 8.1848rem;
+  height: 8.1848rem;
+  position: absolute;
+  left: 22.5082rem;
+  top: 11.8679rem;
+  background-size: 100% 100%;
+  background-repeat: no-repeat;
+  background-position: center;
+  background-image: url('../assets/ellipse-96-bg-QCN.png');
+  border-radius: 4.0924rem;
+}
+.courseworks-vWA .header-1-ZJE .background-FaN .hero-8-bg-shape-cover-a6r .none-FCz .ellipse-96-qF4 {
+  width: 8.1848rem;
+  height: 8.1848rem;
+  position: absolute;
+  left: 45.0162rem;
+  top: 2.0462rem;
+  background-size: 100% 100%;
+  background-repeat: no-repeat;
+  background-position: center;
+  background-image: url('../assets/ellipse-96-bg-P3C.png');
+  border-radius: 4.0924rem;
+}
+.courseworks-vWA .header-1-ZJE .background-FaN .hero-8-bg-shape-cover-a6r .none-FCz .ellipse-96-jbL {
+  width: 8.1848rem;
+  height: 8.1848rem;
+  position: absolute;
+  left: 47.0625rem;
+  top: 40.5146rem;
+  background-size: 100% 100%;
+  background-repeat: no-repeat;
+  background-position: center;
+  background-image: url('../assets/ellipse-96-bg-bUi.png');
+  border-radius: 4.0924rem;
+}
+.courseworks-vWA .header-1-ZJE .background-FaN .hero-8-bg-shape-cover-a6r .none-FCz .ellipse-96-FZg {
+  width: 8.1848rem;
+  height: 8.1848rem;
+  position: absolute;
+  left: 14.3234rem;
+  top: 55.6563rem;
+  background-size: 100% 100%;
+  background-repeat: no-repeat;
+  background-position: center;
+  background-image: url('../assets/ellipse-96-bg.png');
+  border-radius: 4.0924rem;
+}
+.courseworks-vWA .header-1-ZJE .background-FaN .hero-8-bg-shape-cover-a6r .none-FCz .ellipse-97-ZaN {
+  width: 2.319rem;
+  height: 2.319rem;
+  position: absolute;
+  left: 9.1396rem;
+  top: 6.957rem;
+  border: solid 0.4092rem rgba(255, 38, 90, 0.25);
+  box-sizing: border-box;
+  background-color: #ff265a;
+  border-radius: 1.1595rem;
+}
+.courseworks-vWA .header-1-ZJE .background-FaN .hero-8-bg-shape-cover-a6r .none-FCz .ellipse-97-FCJ {
+  width: 0.6821rem;
+  height: 0.6821rem;
+  position: absolute;
+  left: 23.7357rem;
+  top: 26.0548rem;
+  border: solid 0.2728rem rgba(255, 38, 90, 0.25);
+  box-sizing: border-box;
+  background-color: #ff265a;
+  border-radius: 0.341rem;
+}
+.courseworks-vWA .header-1-ZJE .background-FaN .hero-8-bg-shape-cover-a6r .none-FCz .ellipse-97-ker {
+  width: 1.3641rem;
+  height: 1.3641rem;
+  position: absolute;
+  left: 17.8699rem;
+  top: 39.696rem;
+  border: solid 0.2728rem rgba(255, 38, 90, 0.25);
+  box-sizing: border-box;
+  background-color: #ff265a;
+  border-radius: 0.6821rem;
+}
+.courseworks-vWA .header-1-ZJE .background-FaN .hero-8-bg-shape-cover-a6r .none-FCz .ellipse-97-eVL {
+  width: 1.3641rem;
+  height: 1.3641rem;
+  position: absolute;
+  left: 44.3342rem;
+  top: 22.5081rem;
+  border: solid 0.2728rem rgba(255, 38, 90, 0.25);
+  box-sizing: border-box;
+  background-color: #ff265a;
+  border-radius: 0.6821rem;
+}
+.courseworks-vWA .header-1-ZJE .background-FaN .filter-koG {
+  width: 144rem;
+  height: 90.7rem;
+  position: absolute;
+  left: 0;
+  top: 0;
+  overflow: hidden;
+}
+.courseworks-vWA .header-1-ZJE .background-FaN .container-JZt {
+  box-sizing: border-box;
+  padding: 1.6rem 0rem 1.6rem 13.6rem;
+  width: 132.2rem;
+  height: 9.1rem;
+  position: absolute;
+  left: 5.9rem;
+  top: 0;
+  overflow: hidden;
+}
+.courseworks-vWA .header-1-ZJE .background-FaN .container-JZt .navbar-style-2-navbar-light-omY {
+  box-sizing: border-box;
+  padding: 1.4rem 0rem 1.3rem 0rem;
+  width: 100%;
+  height: 100%;
+  overflow: hidden;
+  position: relative;
+  display: flex;
+  align-items: center;
+}
+.courseworks-vWA .header-1-ZJE .background-FaN .container-JZt .navbar-style-2-navbar-light-omY .navbar-brand-WR4 {
+  margin-right: 11.1rem;
+  width: 11.7rem;
+  height: 100%;
+  overflow: hidden;
+  position: relative;
+  font-size: 2.4rem;
+  font-weight: 700;
+  line-height: 1.3333333333;
+  letter-spacing: 0.01rem;
+  color: #252b42;
+  font-family: Montserrat, 'Source Sans Pro';
+  white-space: nowrap;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-shrink: 0;
+}
+.courseworks-vWA .header-1-ZJE .background-FaN .container-JZt .navbar-style-2-navbar-light-omY .collapse-navbar-collapse-9iv {
+  margin: 0.3rem 52.9rem 0.5rem 0rem;
+  width: 40.5rem;
+  height: calc(100% - 0.8rem);
+  overflow: hidden;
+  position: relative;
+  flex-shrink: 0;
+}
+.courseworks-vWA .header-1-ZJE .background-FaN .container-JZt .navbar-style-2-navbar-light-omY .collapse-navbar-collapse-9iv .navbar-nav-45C {
+  width: 100%;
+  height: 100%;
+  overflow: hidden;
+  position: relative;
+  display: flex;
+  align-items: center;
+}
+.courseworks-vWA .header-1-ZJE .background-FaN .container-JZt .navbar-style-2-navbar-light-omY .collapse-navbar-collapse-9iv .navbar-nav-45C .link-yhx {
+  margin-right: 1.6rem;
+  text-align: center;
+  font-size: 1.4rem;
+  font-weight: 700;
+  line-height: 1.7142857143;
+  letter-spacing: 0.02rem;
+  color: #727272;
+  font-family: Montserrat, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.courseworks-vWA .header-1-ZJE .background-FaN .container-JZt .navbar-style-2-navbar-light-omY .collapse-navbar-collapse-9iv .navbar-nav-45C .link-ta2 {
+  margin-right: 1.45rem;
+  text-align: center;
+  font-size: 1.4rem;
+  font-weight: 700;
+  line-height: 1.7142857143;
+  letter-spacing: 0.02rem;
+  color: #727272;
+  font-family: Montserrat, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.courseworks-vWA .header-1-ZJE .background-FaN .container-JZt .navbar-style-2-navbar-light-omY .collapse-navbar-collapse-9iv .navbar-nav-45C .link-oS6 {
+  margin-right: 1.4rem;
+  text-align: center;
+  font-size: 1.4rem;
+  font-weight: 700;
+  line-height: 1.7142857143;
+  letter-spacing: 0.02rem;
+  color: #727272;
+  font-family: Montserrat, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.courseworks-vWA .header-1-ZJE .background-FaN .container-JZt .navbar-style-2-navbar-light-omY .collapse-navbar-collapse-9iv .navbar-nav-45C .link-jKk {
+  text-align: center;
+  font-size: 1.4rem;
+  font-weight: 700;
+  line-height: 1.7142857143;
+  letter-spacing: 0.02rem;
+  color: #727272;
+  font-family: Montserrat, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.courseworks-vWA .header-1-ZJE .background-FaN .container-JZt .navbar-style-2-navbar-light-omY .navbar-toggler-Fot {
+  margin: 0.9rem 0rem 0.929rem 0rem;
+  width: 2.4rem;
+  height: calc(100% - 1.8286rem);
+  overflow: hidden;
+  position: relative;
+  flex-shrink: 0;
+}
+.courseworks-vWA .header-1-ZJE .container-n38 {
+  width: 104.5rem;
+  height: 76.4rem;
+  position: absolute;
+  left: 19.7rem;
+  top: 18.4rem;
+}
+.courseworks-vWA .header-1-ZJE .container-n38 .row-WE2 {
+  margin: 0rem 0.1rem 8rem 0rem;
+  width: calc(100% - 0.1rem);
+  height: 39.2rem;
+  overflow: hidden;
+  position: relative;
+  display: flex;
+  align-items: center;
+}
+.courseworks-vWA .header-1-ZJE .container-n38 .row-WE2 .col-md-8-2TG {
+  margin-right: 8.8rem;
+  width: 54.1rem;
+  height: 100%;
+  overflow: hidden;
+  position: relative;
+  row-gap: 3.5rem;
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 0;
+}
+.courseworks-vWA .header-1-ZJE .container-n38 .row-WE2 .col-md-8-2TG .h1-headline-ku4 {
+  max-width: 54.1rem;
+  font-size: 5rem;
+  font-weight: 700;
+  line-height: 1.6;
+  letter-spacing: 0.02rem;
+  color: #252b42;
+  font-family: Montserrat, 'Source Sans Pro';
+  flex-shrink: 0;
+}
+.courseworks-vWA .header-1-ZJE .container-n38 .row-WE2 .col-md-8-2TG .h4-sub-headline-UaA {
+  font-size: 2rem;
+  font-weight: 400;
+  line-height: 1.5;
+  letter-spacing: 0.02rem;
+  color: #727272;
+  font-family: Montserrat, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.courseworks-vWA .header-1-ZJE .container-n38 .row-WE2 .col-md-8-2TG .cta-osL {
+  margin-right: 23.4rem;
+  width: calc(100% - 23.4rem);
+  height: 5.2rem;
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+}
+.courseworks-vWA .header-1-ZJE .container-n38 .row-WE2 .col-md-8-2TG .cta-osL .button-md-xES {
+  margin-right: 1rem;
+  width: 13.3rem;
+  height: 100%;
+  overflow: hidden;
+  position: relative;
+  text-align: center;
+  font-size: 1.4rem;
+  font-weight: 700;
+  line-height: 1.5714285714;
+  letter-spacing: 0.02rem;
+  color: #ffffff;
+  font-family: Montserrat, 'Source Sans Pro';
+  white-space: nowrap;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background-color: #23a6f0;
+  border-radius: 0.5rem;
+  flex-shrink: 0;
+}
+.courseworks-vWA .header-1-ZJE .container-n38 .row-WE2 .col-md-8-2TG .cta-osL .button-md-2VC {
+  width: 16.4rem;
+  height: 100%;
+  overflow: hidden;
+  position: relative;
+  text-align: center;
+  font-size: 1.4rem;
+  font-weight: 700;
+  line-height: 1.5714285714;
+  letter-spacing: 0.02rem;
+  color: #23a6f0;
+  font-family: Montserrat, 'Source Sans Pro';
+  white-space: nowrap;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  border: solid 0.1rem #23a6f0;
+  box-sizing: border-box;
+  border-radius: 0.5rem;
+  flex-shrink: 0;
+}
+.courseworks-vWA .header-1-ZJE .container-n38 .row-WE2 .col-md-4-Vdg {
+  margin: 5.6rem 0;
+  width: 41.5rem;
+  height: calc(100% - 11.2rem);
+  overflow: hidden;
+  position: relative;
+  flex-shrink: 0;
+}
+.courseworks-vWA .header-1-ZJE .container-n38 .row-RXL {
+  width: 100%;
+  height: 29.2rem;
+  display: flex;
+  align-items: center;
+}
+.courseworks-vWA .header-1-ZJE .container-n38 .row-RXL .card-NSa {
+  margin-right: 3rem;
+  box-sizing: border-box;
+  padding: 3.5rem 5.2rem 3.5rem 4rem;
+  height: 100%;
+  overflow: hidden;
+  position: relative;
+  row-gap: 2rem;
+  display: flex;
+  flex-direction: column;
+  box-shadow: 0 1.3rem 1.9rem rgba(0, 0, 0, 0.0700000003);
+  background-color: #ffffff;
+  flex-shrink: 0;
+}
+.courseworks-vWA .header-1-ZJE .container-n38 .row-RXL .card-NSa .fixed-width-fRg {
+  width: 7rem;
+  height: 7.6rem;
+  object-fit: contain;
+  vertical-align: top;
+  border-radius: 1rem;
+  flex-shrink: 0;
+}
+.courseworks-vWA .header-1-ZJE .container-n38 .row-RXL .card-NSa .h3-feature-title-CgW {
+  font-size: 1.6rem;
+  font-weight: 700;
+  line-height: 1.5;
+  letter-spacing: 0.01rem;
+  color: #252b42;
+  font-family: Montserrat, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.courseworks-vWA .header-1-ZJE .container-n38 .row-RXL .card-NSa .fixed-width-fixed-height-jAe {
+  width: 5rem;
+  height: 0.2rem;
+  background-color: #e64040;
+  flex-shrink: 0;
+}
+.courseworks-vWA .header-1-ZJE .container-n38 .row-RXL .card-NSa .paragraph-feature-description-Ue2 {
+  max-width: 23.6rem;
+  font-size: 1.4rem;
+  font-weight: 400;
+  line-height: 1.4285714286;
+  letter-spacing: 0.02rem;
+  color: #727272;
+  font-family: Montserrat, 'Source Sans Pro';
+  flex-shrink: 0;
+}
+.courseworks-vWA .header-1-ZJE .container-n38 .row-RXL .card-xp6 {
+  margin-right: 3.1rem;
+  box-sizing: border-box;
+  padding: 3.5rem 4rem 1.5rem 4rem;
+  width: 32.8rem;
+  height: 100%;
+  overflow: hidden;
+  position: relative;
+  row-gap: 2rem;
+  display: flex;
+  flex-direction: column;
+  box-shadow: 0 1.3rem 1.9rem rgba(0, 0, 0, 0.0700000003);
+  background-color: #ffffff;
+  flex-shrink: 0;
+}
+.courseworks-vWA .header-1-ZJE .container-n38 .row-RXL .card-xp6 .fixed-width-G46 {
+  width: 7rem;
+  height: 7.6rem;
+  object-fit: contain;
+  vertical-align: top;
+  border-radius: 1rem;
+  flex-shrink: 0;
+}
+.courseworks-vWA .header-1-ZJE .container-n38 .row-RXL .card-xp6 .h3-feature-title-bcA {
+  font-size: 1.6rem;
+  font-weight: 700;
+  line-height: 1.5;
+  letter-spacing: 0.01rem;
+  color: #252b42;
+  font-family: Montserrat, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.courseworks-vWA .header-1-ZJE .container-n38 .row-RXL .card-xp6 .fixed-width-fixed-height-jCa {
+  width: 5rem;
+  height: 0.2rem;
+  background-color: #e64040;
+  flex-shrink: 0;
+}
+.courseworks-vWA .header-1-ZJE .container-n38 .row-RXL .card-xp6 .paragraph-feature-description-sZg {
+  max-width: 19.7rem;
+  font-size: 1.4rem;
+  font-weight: 400;
+  line-height: 1.4285714286;
+  letter-spacing: 0.02rem;
+  color: #727272;
+  font-family: Montserrat, 'Source Sans Pro';
+  flex-shrink: 0;
+}
+.courseworks-vWA .header-1-ZJE .container-n38 .row-RXL .card-yMp {
+  box-sizing: border-box;
+  padding: 3.5rem 2.4rem 5.5rem 4rem;
+  height: 100%;
+  overflow: hidden;
+  position: relative;
+  row-gap: 2rem;
+  display: flex;
+  flex-direction: column;
+  box-shadow: 0 1.3rem 1.9rem rgba(0, 0, 0, 0.0700000003);
+  background-color: #23a6f0;
+  flex-shrink: 0;
+}
+.courseworks-vWA .header-1-ZJE .container-n38 .row-RXL .card-yMp .fixed-width-H7c {
+  width: 7rem;
+  height: 7.6rem;
+  object-fit: contain;
+  vertical-align: top;
+  border-radius: 1rem;
+  flex-shrink: 0;
+}
+.courseworks-vWA .header-1-ZJE .container-n38 .row-RXL .card-yMp .h3-feature-title-cQn {
+  font-size: 1.6rem;
+  font-weight: 700;
+  line-height: 1.5;
+  letter-spacing: 0.01rem;
+  color: #ffffff;
+  font-family: Montserrat, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.courseworks-vWA .header-1-ZJE .container-n38 .row-RXL .card-yMp .fixed-width-fixed-height-k1C {
+  width: 5rem;
+  height: 0.2rem;
+  background-color: #ffffff;
+  flex-shrink: 0;
+}
+.courseworks-vWA .header-1-ZJE .container-n38 .row-RXL .card-yMp .paragraph-feature-description-HWv {
+  max-width: 19.5rem;
+  font-size: 1.4rem;
+  font-weight: 400;
+  line-height: 1.4285714286;
+  letter-spacing: 0.02rem;
+  color: #ffffff;
+  font-family: Montserrat, 'Source Sans Pro';
+  flex-shrink: 0;
+}
+.courseworks-vWA .layout-2-NHU {
+  box-sizing: border-box;
+  padding: 16rem 19.75rem;
+  width: 100%;
+  height: 90.2rem;
+  overflow: hidden;
+  position: relative;
+  background-color: #ffffff;
+  flex-shrink: 0;
+}
+.courseworks-vWA .layout-2-NHU .container-uYJ {
+  width: 100%;
+  height: 100%;
+  overflow: hidden;
+  position: relative;
+}
+.courseworks-vWA .layout-2-NHU .container-uYJ .row-Gdk {
+  box-sizing: border-box;
+  padding-right: 2.4rem;
+  width: 100%;
+  height: 100%;
+  display: flex;
+  align-items: center;
+}
+.courseworks-vWA .layout-2-NHU .container-uYJ .row-Gdk .col-md-6-Qjx {
+  margin-right: 15.6rem;
+  box-sizing: border-box;
+  padding: 0 0.05rem;
+  width: 50.8rem;
+  height: 100%;
+  overflow: hidden;
+  position: relative;
+  flex-shrink: 0;
+}
+.courseworks-vWA .layout-2-NHU .container-uYJ .row-Gdk .col-md-6-Qjx .thumb-concept-9-wUz {
+  width: 49.2rem;
+  height: 58.1155rem;
+  position: relative;
+  overflow: hidden;
+}
+.courseworks-vWA .layout-2-NHU .container-uYJ .row-Gdk .col-md-6-Qjx .thumb-concept-9-wUz .rectangle-51-5LJ {
+  width: 42.5918rem;
+  height: 26.2434rem;
+  position: absolute;
+  left: 0;
+  top: 30.5098rem;
+  object-fit: contain;
+  vertical-align: top;
+}
+.courseworks-vWA .layout-2-NHU .container-uYJ .row-Gdk .col-md-6-Qjx .thumb-concept-9-wUz .mask-group-1jk {
+  width: 42.5918rem;
+  height: 58.1155rem;
+  position: absolute;
+  left: 0;
+  top: 0;
+  object-fit: contain;
+  vertical-align: top;
+}
+.courseworks-vWA .layout-2-NHU .container-uYJ .row-Gdk .col-md-6-Qjx .thumb-concept-9-wUz .rectangle-52-AMk {
+  width: 4.7136rem;
+  height: 4.7136rem;
+  position: absolute;
+  left: 3.5135rem;
+  top: 30.2947rem;
+  object-fit: contain;
+  vertical-align: top;
+}
+.courseworks-vWA .layout-2-NHU .container-uYJ .row-Gdk .col-md-6-Qjx .thumb-concept-9-wUz .rectangle-53-JD4 {
+  width: 11.2574rem;
+  height: 5.3777rem;
+  position: absolute;
+  left: 27.8209rem;
+  top: 52.7378rem;
+  object-fit: contain;
+  vertical-align: top;
+}
+.courseworks-vWA .layout-2-NHU .container-uYJ .row-Gdk .col-md-6-Qjx .thumb-concept-9-wUz .image-3-2er {
+  width: 15.8rem;
+  height: 15.8rem;
+  position: absolute;
+  left: 33.4rem;
+  top: 19.2rem;
+  object-fit: cover;
+  vertical-align: top;
+}
+.courseworks-vWA .layout-2-NHU .container-uYJ .row-Gdk .col-md-5-MSE {
+  margin: 16.8rem 0;
+  width: 35.7rem;
+  height: calc(100% - 33.6rem);
+  overflow: hidden;
+  position: relative;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 0;
+}
+.courseworks-vWA .layout-2-NHU .container-uYJ .row-Gdk .col-md-5-MSE .auto-group-hcpn-57L {
+  box-sizing: border-box;
+  padding-bottom: 3.5rem;
+  width: 100%;
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 0;
+}
+.courseworks-vWA .layout-2-NHU .container-uYJ .row-Gdk .col-md-5-MSE .auto-group-hcpn-57L .fixed-width-fixed-height-RBC {
+  margin-bottom: 3.5rem;
+  width: 9.4rem;
+  height: 0.7rem;
+  background-color: #e64040;
+  flex-shrink: 0;
+}
+.courseworks-vWA .layout-2-NHU .container-uYJ .row-Gdk .col-md-5-MSE .auto-group-hcpn-57L .h2-section-title-2-9cz {
+  font-size: 4rem;
+  font-weight: 700;
+  line-height: 1.25;
+  letter-spacing: 0.02rem;
+  color: #252b42;
+  font-family: Montserrat, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.courseworks-vWA .layout-2-NHU .container-uYJ .row-Gdk .col-md-5-MSE .auto-group-lvwy-UfG {
+  width: 100%;
+  height: 11.9rem;
+  position: relative;
+  flex-shrink: 0;
+}
+.courseworks-vWA .layout-2-NHU .container-uYJ .row-Gdk .col-md-5-MSE .auto-group-lvwy-UfG .paragraph-dYA {
+  width: 35.7rem;
+  height: 10rem;
+  position: absolute;
+  left: 0;
+  top: 0;
+  font-size: 1.4rem;
+  font-weight: 400;
+  line-height: 1.4285714286;
+  letter-spacing: 0.02rem;
+  color: #727272;
+  font-family: Montserrat, 'Source Sans Pro';
+}
+.courseworks-vWA .layout-2-NHU .container-uYJ .row-Gdk .col-md-5-MSE .auto-group-lvwy-UfG .a-kMt {
+  box-sizing: border-box;
+  padding-right: 0.0383rem;
+  width: 7.2rem;
+  height: 2.4rem;
+  position: absolute;
+  left: 0;
+  top: 9.5rem;
+  overflow: hidden;
+  display: flex;
+  align-items: center;
+}
+.courseworks-vWA .layout-2-NHU .container-uYJ .row-Gdk .col-md-5-MSE .auto-group-lvwy-UfG .a-kMt .h6-UYn {
+  margin-right: 0.6rem;
+  font-size: 1.4rem;
+  font-weight: 700;
+  line-height: 1.7142857143;
+  letter-spacing: 0.02rem;
+  color: #23a6f0;
+  font-family: Montserrat, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.courseworks-vWA .layout-2-NHU .container-uYJ .row-Gdk .col-md-5-MSE .auto-group-lvwy-UfG .a-kMt .icon-arrow-next-oqx {
+  width: 0.8617rem;
+  height: 1.6rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.courseworks-vWA .layout-2-ii2 {
+  box-sizing: border-box;
+  padding: 0 19.5rem;
+  width: 100%;
+  height: 95.2rem;
+  overflow: hidden;
+  position: relative;
+  background-color: #ffffff;
+  flex-shrink: 0;
+}
+.courseworks-vWA .layout-2-ii2 .container-Fxr {
+  box-sizing: border-box;
+  padding: 16rem 0;
+  width: 100%;
+  height: 90.8rem;
+  overflow: hidden;
+  position: relative;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+}
+.courseworks-vWA .layout-2-ii2 .container-Fxr .row-zvS {
+  margin: 0rem 35.3rem 9.6rem 0rem;
+  width: 69.1rem;
+  height: 11.4rem;
+  overflow: hidden;
+  position: relative;
+  flex-shrink: 0;
+}
+.courseworks-vWA .layout-2-ii2 .container-Fxr .row-zvS .main-content-XfU {
+  width: 62.8rem;
+  height: 100%;
+  overflow: hidden;
+  position: relative;
+  row-gap: 1rem;
+  display: flex;
+  flex-direction: column;
+}
+.courseworks-vWA .layout-2-ii2 .container-Fxr .row-zvS .main-content-XfU .h6-section-tag-UKp {
+  font-size: 1.4rem;
+  font-weight: 700;
+  line-height: 1.7142857143;
+  letter-spacing: 0.02rem;
+  color: #23a6f0;
+  font-family: Montserrat, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.courseworks-vWA .layout-2-ii2 .container-Fxr .row-zvS .main-content-XfU .h2-section-title-3-14r {
+  font-size: 4rem;
+  font-weight: 700;
+  line-height: 1.25;
+  letter-spacing: 0.02rem;
+  color: #252b42;
+  font-family: Montserrat, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.courseworks-vWA .layout-2-ii2 .container-Fxr .row-zvS .main-content-XfU .paragraph-Y4n {
+  font-size: 1.4rem;
+  font-weight: 400;
+  line-height: 1.4285714286;
+  letter-spacing: 0.02rem;
+  color: #727272;
+  font-family: Montserrat, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.courseworks-vWA .layout-2-ii2 .container-Fxr .carousel-4Yv {
+  width: 100%;
+  height: 37.8rem;
+  display: flex;
+  column-gap: 1.5rem;
+  align-items: center;
+  flex-shrink: 0;
+}
+.courseworks-vWA .layout-2-ii2 .container-Fxr .carousel-4Yv .horizental-product-card-oFc {
+  height: 100%;
+  overflow: hidden;
+  position: relative;
+  display: flex;
+  align-items: center;
+  background-color: #ffffff;
+  flex-shrink: 0;
+}
+.courseworks-vWA .layout-2-ii2 .container-Fxr .carousel-4Yv .horizental-product-card-oFc .fixed-width-wsc {
+  margin-right: 9.55rem;
+  box-sizing: border-box;
+  padding: 2rem 3.4rem 2.4rem 2rem;
+  width: 20.9rem;
+  height: 100%;
+  overflow: hidden;
+  position: relative;
+  background-size: 100% 100%;
+  background-repeat: no-repeat;
+  background-position: center;
+  background-image: url('../assets/product-cover-218-bg.png');
+  flex-shrink: 0;
+}
+.courseworks-vWA .layout-2-ii2 .container-Fxr .carousel-4Yv .horizental-product-card-oFc .fixed-width-wsc .tag-sFU {
+  margin-bottom: 27rem;
+  width: 5.1rem;
+  height: 2.4rem;
+  overflow: hidden;
+  position: relative;
+  text-align: center;
+  font-size: 1.4rem;
+  font-weight: 700;
+  line-height: 1.7142857143;
+  letter-spacing: 0.02rem;
+  color: #ffffff;
+  font-family: Montserrat, 'Source Sans Pro';
+  white-space: nowrap;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  box-shadow: 0 0.2rem 0.4rem rgba(0, 0, 0, 0.1000000015);
+  background-color: #e64040;
+  border-radius: 0.3rem;
+}
+.courseworks-vWA .layout-2-ii2 .container-Fxr .carousel-4Yv .horizental-product-card-oFc .fixed-width-wsc .product-actions-X58 {
+  margin-left: 1.5rem;
+  width: 14rem;
+  height: 4rem;
+  object-fit: contain;
+  vertical-align: top;
+}
+.courseworks-vWA .layout-2-ii2 .container-Fxr .carousel-4Yv .horizental-product-card-oFc .frame-3-d8A {
+  box-sizing: border-box;
+  padding: 2.5rem 0rem 3.5rem 2.5rem;
+  width: 29.2rem;
+  height: 100%;
+  overflow: hidden;
+  position: relative;
+  flex-shrink: 0;
+}
+.courseworks-vWA .layout-2-ii2 .container-Fxr .carousel-4Yv .horizental-product-card-oFc .frame-3-d8A .frame-1-96W {
+  margin: 0rem 2.5rem 1rem 0rem;
+  width: calc(100% - 2.5rem);
+  height: 2.6rem;
+  overflow: hidden;
+  position: relative;
+  display: flex;
+  align-items: center;
+}
+.courseworks-vWA .layout-2-ii2 .container-Fxr .carousel-4Yv .horizental-product-card-oFc .frame-3-d8A .frame-1-96W .frame-1-s2W {
+  margin: 0.1rem 3.7rem 0.1rem 0rem;
+  width: 15.5rem;
+  height: calc(100% - 0.2rem);
+  overflow: hidden;
+  position: relative;
+  font-size: 1.4rem;
+  font-weight: 700;
+  line-height: 1.7142857143;
+  letter-spacing: 0.02rem;
+  color: #23a6f0;
+  font-family: Montserrat, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.courseworks-vWA .layout-2-ii2 .container-Fxr .carousel-4Yv .horizental-product-card-oFc .frame-3-d8A .frame-1-96W .frame-4-Lwg {
+  box-sizing: border-box;
+  padding: 0.5rem 0.5rem 0.5rem 0.55rem;
+  height: 100%;
+  overflow: hidden;
+  position: relative;
+  display: flex;
+  align-items: center;
+  background-color: #252b42;
+  border-radius: 2rem;
+  flex-shrink: 0;
+}
+.courseworks-vWA .layout-2-ii2 .container-Fxr .carousel-4Yv .horizental-product-card-oFc .frame-3-d8A .frame-1-96W .frame-4-Lwg .icon-emojione-star-gEr {
+  margin-right: 0.55rem;
+  width: 1.5rem;
+  height: 1.45rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.courseworks-vWA .layout-2-ii2 .container-Fxr .carousel-4Yv .horizental-product-card-oFc .frame-3-d8A .frame-1-96W .frame-4-Lwg .small-1H8 {
+  font-size: 1.2rem;
+  font-weight: 400;
+  line-height: 1.3333333333;
+  letter-spacing: 0.02rem;
+  color: #ffffff;
+  font-family: Montserrat, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.courseworks-vWA .layout-2-ii2 .container-Fxr .carousel-4Yv .horizental-product-card-oFc .frame-3-d8A .h5-product-title-1-6Ja {
+  margin-bottom: 1rem;
+  font-size: 1.6rem;
+  font-weight: 700;
+  line-height: 1.5;
+  letter-spacing: 0.01rem;
+  color: #252b42;
+  font-family: Montserrat, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.courseworks-vWA .layout-2-ii2 .container-Fxr .carousel-4Yv .horizental-product-card-oFc .frame-3-d8A .paragraph-product-description-1wL {
+  margin-bottom: 5rem;
+  font-size: 1.4rem;
+  font-weight: 400;
+  line-height: 1.4285714286;
+  letter-spacing: 0.02rem;
+  color: #727272;
+  font-family: Montserrat, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.courseworks-vWA .layout-2-ii2 .container-Fxr .carousel-4Yv .horizental-product-card-oFc .frame-3-d8A .sales-jsL {
+  margin: 0rem 18.3rem 1.5rem 0rem;
+  width: calc(100% - 18.3rem);
+  display: flex;
+  align-items: center;
+}
+.courseworks-vWA .layout-2-ii2 .container-Fxr .carousel-4Yv .horizental-product-card-oFc .frame-3-d8A .sales-jsL .h6-GsG {
+  font-size: 1.4rem;
+  font-weight: 700;
+  line-height: 1.7142857143;
+  letter-spacing: 0.02rem;
+  color: #727272;
+  font-family: Montserrat, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.courseworks-vWA .layout-2-ii2 .container-Fxr .carousel-4Yv .horizental-product-card-oFc .frame-3-d8A .sales-jsL .frame-ocJ {
+  margin: 0rem 5.45rem 0.01rem 0rem;
+  width: 1.6rem;
+  height: 1.39rem;
+  position: relative;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.courseworks-vWA .layout-2-ii2 .container-Fxr .carousel-4Yv .horizental-product-card-oFc .frame-3-d8A .prices-vwp {
+  margin: 0rem 16.1rem 3rem 0.2rem;
+  width: calc(100% - 16.3rem);
+  display: flex;
+  align-items: center;
+}
+.courseworks-vWA .layout-2-ii2 .container-Fxr .carousel-4Yv .horizental-product-card-oFc .frame-3-d8A .prices-vwp .h5-price-GVt {
+  margin-right: 1.45rem;
+  text-align: center;
+  font-size: 1.6rem;
+  font-weight: 700;
+  line-height: 1.5;
+  letter-spacing: 0.01rem;
+  color: #bdbdbd;
+  font-family: Montserrat, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.courseworks-vWA .layout-2-ii2 .container-Fxr .carousel-4Yv .horizental-product-card-oFc .frame-3-d8A .prices-vwp .h5-price-zgn {
+  text-align: center;
+  font-size: 1.6rem;
+  font-weight: 700;
+  line-height: 1.5;
+  letter-spacing: 0.01rem;
+  color: #40bb15;
+  font-family: Montserrat, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.courseworks-vWA .layout-2-ii2 .container-Fxr .carousel-4Yv .horizental-product-card-oFc .frame-3-d8A .frame-1-XRp {
+  margin-bottom: 2.5rem;
+  box-sizing: border-box;
+  padding-right: 0.1rem;
+  height: 1.6rem;
+  overflow: hidden;
+  position: relative;
+  display: flex;
+  align-items: center;
+}
+.courseworks-vWA .layout-2-ii2 .container-Fxr .carousel-4Yv .horizental-product-card-oFc .frame-3-d8A .frame-1-XRp .frame-1-fY2 {
+  margin-right: 1.85rem;
+  height: 100%;
+  overflow: hidden;
+  position: relative;
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+}
+.courseworks-vWA .layout-2-ii2 .container-Fxr .carousel-4Yv .horizental-product-card-oFc .frame-3-d8A .frame-1-XRp .frame-1-fY2 .icon-akar-icons-calendar-cy4 {
+  margin-right: 5.45rem;
+  width: 1.6rem;
+  height: 1.6rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.courseworks-vWA .layout-2-ii2 .container-Fxr .carousel-4Yv .horizental-product-card-oFc .frame-3-d8A .frame-1-XRp .frame-1-fY2 .small-KsU {
+  font-size: 1.2rem;
+  font-weight: 400;
+  line-height: 1.3333333333;
+  letter-spacing: 0.02rem;
+  color: #727272;
+  font-family: Montserrat, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.courseworks-vWA .layout-2-ii2 .container-Fxr .carousel-4Yv .horizental-product-card-oFc .frame-3-d8A .frame-1-XRp .frame-1-euk {
+  margin-right: 1.15rem;
+  box-sizing: border-box;
+  padding-left: 0.1rem;
+  width: 8.9rem;
+  height: 100%;
+  overflow: hidden;
+  position: relative;
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+}
+.courseworks-vWA .layout-2-ii2 .container-Fxr .carousel-4Yv .horizental-product-card-oFc .frame-3-d8A .frame-1-XRp .frame-1-euk .icon-carbon-chart-area-smooth-Nar {
+  margin-right: 0.6rem;
+  width: 1.4rem;
+  height: 1.4rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.courseworks-vWA .layout-2-ii2 .container-Fxr .carousel-4Yv .horizental-product-card-oFc .frame-3-d8A .frame-1-XRp .frame-1-euk .small-hNE {
+  font-size: 1.2rem;
+  font-weight: 400;
+  line-height: 1.3333333333;
+  letter-spacing: 0.02rem;
+  color: #727272;
+  font-family: Montserrat, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.courseworks-vWA .layout-2-ii2 .container-Fxr .carousel-4Yv .horizental-product-card-oFc .frame-3-d8A .frame-1-XRp .frame-1-E7G {
+  height: 100%;
+  overflow: hidden;
+  position: relative;
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+}
+.courseworks-vWA .layout-2-ii2 .container-Fxr .carousel-4Yv .horizental-product-card-oFc .frame-3-d8A .frame-1-XRp .frame-1-E7G .icon-ant-design-area-chart-outlined-nPg {
+  margin: 0rem 0.5rem 0rem 0rem;
+  width: 1.6rem;
+  height: 1.4667rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.courseworks-vWA .layout-2-ii2 .container-Fxr .carousel-4Yv .horizental-product-card-oFc .frame-3-d8A .frame-1-XRp .frame-1-E7G .small-J78 {
+  font-size: 1.2rem;
+  font-weight: 400;
+  line-height: 1.3333333333;
+  letter-spacing: 0.02rem;
+  color: #727272;
+  font-family: Montserrat, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.courseworks-vWA .layout-2-ii2 .container-Fxr .carousel-4Yv .horizental-product-card-oFc .frame-3-d8A .button-sm-2J2 {
+  margin-right: 12.5857rem;
+  box-sizing: border-box;
+  padding: 1rem 2rem 1rem 2rem;
+  width: calc(100% - 12.5857rem);
+  overflow: hidden;
+  position: relative;
+  display: flex;
+  align-items: center;
+  border: solid 0.1rem #23a6f0;
+  border-radius: 3.7rem;
+}
+.courseworks-vWA .layout-2-ii2 .container-Fxr .carousel-4Yv .horizental-product-card-oFc .frame-3-d8A .button-sm-2J2 .h6-YnA {
+  margin-right: 0.7rem;
+  font-size: 1.4rem;
+  font-weight: 700;
+  line-height: 1.7142857143;
+  letter-spacing: 0.02rem;
+  color: #23a6f0;
+  font-family: Montserrat, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.courseworks-vWA .layout-2-ii2 .container-Fxr .carousel-4Yv .horizental-product-card-oFc .frame-3-d8A .button-sm-2J2 .icn-arrow-right-icn-xs-GTG {
+  width: 0.9143rem;
+  height: 1.6rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.courseworks-vWA .layout-2-ii2 .container-Fxr .carousel-4Yv .horizental-product-card-mQ2 {
+  box-sizing: border-box;
+  padding-right: 2.5rem;
+  height: 100%;
+  overflow: hidden;
+  position: relative;
+  display: flex;
+  align-items: flex-start;
+  background-color: #ffffff;
+  flex-shrink: 0;
+}
+.courseworks-vWA .layout-2-ii2 .container-Fxr .carousel-4Yv .horizental-product-card-mQ2 .fixed-width-hoU {
+  margin-right: 2.5rem;
+  box-sizing: border-box;
+  padding: 2rem 3.4rem 2.4rem 2rem;
+  height: 100%;
+  overflow: hidden;
+  position: relative;
+  display: flex;
+  flex-direction: column;
+  background-size: 100% 100%;
+  background-repeat: no-repeat;
+  background-position: center;
+  background-image: url('../assets/product-cover-219-bg.png');
+  flex-shrink: 0;
+}
+.courseworks-vWA .layout-2-ii2 .container-Fxr .carousel-4Yv .horizental-product-card-mQ2 .fixed-width-hoU .tag-EYW {
+  margin-bottom: 27rem;
+  width: 5.1rem;
+  height: 2.4rem;
+  overflow: hidden;
+  position: relative;
+  text-align: center;
+  font-size: 1.4rem;
+  font-weight: 700;
+  line-height: 1.7142857143;
+  letter-spacing: 0.02rem;
+  color: #ffffff;
+  font-family: Montserrat, 'Source Sans Pro';
+  white-space: nowrap;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  box-shadow: 0 0.2rem 0.4rem rgba(0, 0, 0, 0.1000000015);
+  background-color: #e64040;
+  border-radius: 0.3rem;
+  flex-shrink: 0;
+}
+.courseworks-vWA .layout-2-ii2 .container-Fxr .carousel-4Yv .horizental-product-card-mQ2 .fixed-width-hoU .product-actions-Uhk {
+  margin-left: 1.5rem;
+  overflow: hidden;
+  position: relative;
+  display: flex;
+  column-gap: 1rem;
+  align-items: center;
+  flex-shrink: 0;
+}
+.courseworks-vWA .layout-2-ii2 .container-Fxr .carousel-4Yv .horizental-product-card-mQ2 .fixed-width-hoU .product-actions-Uhk .like-RN6 {
+  width: 4rem;
+  height: 4rem;
+  object-fit: contain;
+  vertical-align: top;
+  border-radius: 4.4786rem;
+  flex-shrink: 0;
+}
+.courseworks-vWA .layout-2-ii2 .container-Fxr .carousel-4Yv .horizental-product-card-mQ2 .fixed-width-hoU .product-actions-Uhk .basket-mRx {
+  width: 4rem;
+  height: 4rem;
+  object-fit: contain;
+  vertical-align: top;
+  border-radius: 4.4786rem;
+  flex-shrink: 0;
+}
+.courseworks-vWA .layout-2-ii2 .container-Fxr .carousel-4Yv .horizental-product-card-mQ2 .fixed-width-hoU .product-actions-Uhk .like-7Ev {
+  width: 4rem;
+  height: 4rem;
+  object-fit: contain;
+  vertical-align: top;
+  border-radius: 4.4786rem;
+  flex-shrink: 0;
+}
+.courseworks-vWA .layout-2-ii2 .container-Fxr .carousel-4Yv .horizental-product-card-mQ2 .frame-3-cxN {
+  margin-top: 2.5rem;
+  width: 24.2rem;
+  overflow: hidden;
+  position: relative;
+  flex-shrink: 0;
+}
+.courseworks-vWA .layout-2-ii2 .container-Fxr .carousel-4Yv .horizental-product-card-mQ2 .frame-3-cxN .frame-1-xmL {
+  margin-bottom: 1rem;
+  width: 100%;
+  height: 2.6rem;
+  overflow: hidden;
+  position: relative;
+  display: flex;
+  align-items: center;
+}
+.courseworks-vWA .layout-2-ii2 .container-Fxr .carousel-4Yv .horizental-product-card-mQ2 .frame-3-cxN .frame-1-xmL .frame-1-6Mk {
+  margin: 0.1rem 5.5rem 0.1rem 0rem;
+  width: 13.7rem;
+  height: calc(100% - 0.2rem);
+  overflow: hidden;
+  position: relative;
+  font-size: 1.4rem;
+  font-weight: 700;
+  line-height: 1.7142857143;
+  letter-spacing: 0.02rem;
+  color: #23a6f0;
+  font-family: Montserrat, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.courseworks-vWA .layout-2-ii2 .container-Fxr .carousel-4Yv .horizental-product-card-mQ2 .frame-3-cxN .frame-1-xmL .frame-4-nVU {
+  box-sizing: border-box;
+  padding: 0.5rem 0.5rem 0.5rem 0.55rem;
+  height: 100%;
+  overflow: hidden;
+  position: relative;
+  display: flex;
+  align-items: center;
+  background-color: #252b42;
+  border-radius: 2rem;
+  flex-shrink: 0;
+}
+.courseworks-vWA .layout-2-ii2 .container-Fxr .carousel-4Yv .horizental-product-card-mQ2 .frame-3-cxN .frame-1-xmL .frame-4-nVU .icon-emojione-star-itv {
+  margin-right: 0.55rem;
+  width: 1.5rem;
+  height: 1.45rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.courseworks-vWA .layout-2-ii2 .container-Fxr .carousel-4Yv .horizental-product-card-mQ2 .frame-3-cxN .frame-1-xmL .frame-4-nVU .small-4C6 {
+  font-size: 1.2rem;
+  font-weight: 400;
+  line-height: 1.3333333333;
+  letter-spacing: 0.02rem;
+  color: #ffffff;
+  font-family: Montserrat, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.courseworks-vWA .layout-2-ii2 .container-Fxr .carousel-4Yv .horizental-product-card-mQ2 .frame-3-cxN .h5-product-title-2-Nia {
+  margin-bottom: 1rem;
+  font-size: 1.6rem;
+  font-weight: 700;
+  line-height: 1.5;
+  letter-spacing: 0.01rem;
+  color: #252b42;
+  font-family: Montserrat, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.courseworks-vWA .layout-2-ii2 .container-Fxr .carousel-4Yv .horizental-product-card-mQ2 .frame-3-cxN .paragraph-product-description-uiW {
+  margin-bottom: 1rem;
+  max-width: 23.9rem;
+  font-size: 1.4rem;
+  font-weight: 400;
+  line-height: 1.4285714286;
+  letter-spacing: 0.02rem;
+  color: #727272;
+  font-family: Montserrat, 'Source Sans Pro';
+}
+.courseworks-vWA .layout-2-ii2 .container-Fxr .carousel-4Yv .horizental-product-card-mQ2 .frame-3-cxN .sales-pqU {
+  margin: 0rem 11rem 2.5rem 0rem;
+  width: calc(100% - 11rem);
+  display: flex;
+  align-items: center;
+}
+.courseworks-vWA .layout-2-ii2 .container-Fxr .carousel-4Yv .horizental-product-card-mQ2 .frame-3-cxN .sales-pqU .frame-mVp {
+  margin: 0rem 1rem 0.01rem 0rem;
+  width: 1.6rem;
+  height: 1.39rem;
+  position: relative;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.courseworks-vWA .layout-2-ii2 .container-Fxr .carousel-4Yv .horizental-product-card-mQ2 .frame-3-cxN .sales-pqU .h6-JEr {
+  font-size: 1.4rem;
+  font-weight: 700;
+  line-height: 1.7142857143;
+  letter-spacing: 0.02rem;
+  color: #727272;
+  font-family: Montserrat, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.courseworks-vWA .layout-2-ii2 .container-Fxr .carousel-4Yv .horizental-product-card-mQ2 .frame-3-cxN .frame-1-e3p {
+  margin-bottom: 2.5rem;
+  box-sizing: border-box;
+  padding-right: 0.1rem;
+  width: 100%;
+  height: 1.6rem;
+  overflow: hidden;
+  position: relative;
+  display: flex;
+  column-gap: 0.5rem;
+  align-items: center;
+}
+.courseworks-vWA .layout-2-ii2 .container-Fxr .carousel-4Yv .horizental-product-card-mQ2 .frame-3-cxN .frame-1-e3p .frame-1-Zga {
+  width: 7.2rem;
+  height: 100%;
+  overflow: hidden;
+  position: relative;
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+}
+.courseworks-vWA .layout-2-ii2 .container-Fxr .carousel-4Yv .horizental-product-card-mQ2 .frame-3-cxN .frame-1-e3p .frame-1-Zga .icon-akar-icons-calendar-iJa {
+  margin-right: 0.5rem;
+  width: 1.6rem;
+  height: 1.6rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.courseworks-vWA .layout-2-ii2 .container-Fxr .carousel-4Yv .horizental-product-card-mQ2 .frame-3-cxN .frame-1-e3p .frame-1-Zga .small-rQn {
+  font-size: 1.2rem;
+  font-weight: 400;
+  line-height: 1.3333333333;
+  letter-spacing: 0.02rem;
+  color: #727272;
+  font-family: Montserrat, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.courseworks-vWA .layout-2-ii2 .container-Fxr .carousel-4Yv .horizental-product-card-mQ2 .frame-3-cxN .frame-1-e3p .frame-1-ydp {
+  box-sizing: border-box;
+  padding-left: 0.1rem;
+  height: 100%;
+  overflow: hidden;
+  position: relative;
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+}
+.courseworks-vWA .layout-2-ii2 .container-Fxr .carousel-4Yv .horizental-product-card-mQ2 .frame-3-cxN .frame-1-e3p .frame-1-ydp .icon-carbon-chart-area-smooth-vox {
+  margin-right: 0.6rem;
+  width: 1.4rem;
+  height: 1.4rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.courseworks-vWA .layout-2-ii2 .container-Fxr .carousel-4Yv .horizental-product-card-mQ2 .frame-3-cxN .frame-1-e3p .frame-1-ydp .small-FrE {
+  font-size: 1.2rem;
+  font-weight: 400;
+  line-height: 1.3333333333;
+  letter-spacing: 0.02rem;
+  color: #727272;
+  font-family: Montserrat, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.courseworks-vWA .layout-2-ii2 .container-Fxr .carousel-4Yv .horizental-product-card-mQ2 .frame-3-cxN .frame-1-e3p .frame-1-bfC {
+  height: 100%;
+  overflow: hidden;
+  position: relative;
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+}
+.courseworks-vWA .layout-2-ii2 .container-Fxr .carousel-4Yv .horizental-product-card-mQ2 .frame-3-cxN .frame-1-e3p .frame-1-bfC .icon-ant-design-area-chart-outlined-ZM8 {
+  margin: 0rem 0.5rem 0rem 0rem;
+  width: 1.6rem;
+  height: 1.4667rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.courseworks-vWA .layout-2-ii2 .container-Fxr .carousel-4Yv .horizental-product-card-mQ2 .frame-3-cxN .frame-1-e3p .frame-1-bfC .small-5aN {
+  font-size: 1.2rem;
+  font-weight: 400;
+  line-height: 1.3333333333;
+  letter-spacing: 0.02rem;
+  color: #727272;
+  font-family: Montserrat, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.courseworks-vWA .layout-2-ii2 .container-Fxr .carousel-4Yv .horizental-product-card-mQ2 .frame-3-cxN .button-sm-QsY {
+  margin-right: 6.5857rem;
+  box-sizing: border-box;
+  padding: 1rem 2rem 1rem 2rem;
+  width: calc(100% - 6.5857rem);
+  overflow: hidden;
+  position: relative;
+  display: flex;
+  align-items: center;
+  border: solid 0.1rem #23a6f0;
+  border-radius: 3.7rem;
+}
+.courseworks-vWA .layout-2-ii2 .container-Fxr .carousel-4Yv .horizental-product-card-mQ2 .frame-3-cxN .button-sm-QsY .h6-jev {
+  margin-right: 0.1rem;
+  font-size: 1.4rem;
+  font-weight: 700;
+  line-height: 1.7142857143;
+  letter-spacing: 0.02rem;
+  color: #23a6f0;
+  font-family: Montserrat, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.courseworks-vWA .layout-2-ii2 .container-Fxr .carousel-4Yv .horizental-product-card-mQ2 .frame-3-cxN .button-sm-QsY .icn-arrow-right-icn-xs-GPx {
+  width: 0.9143rem;
+  height: 1.6rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.courseworks-vWA .layout-2-ii2 .container-Fxr .carousel-4Yv .horizental-product-card-ZP4 {
+  box-sizing: border-box;
+  padding-right: 2.5rem;
+  height: 100%;
+  overflow: hidden;
+  position: relative;
+  display: flex;
+  align-items: center;
+  background-color: #ffffff;
+  flex-shrink: 0;
+}
+.courseworks-vWA .layout-2-ii2 .container-Fxr .carousel-4Yv .horizental-product-card-ZP4 .fixed-width-uC2 {
+  margin-right: 2.5rem;
+  box-sizing: border-box;
+  padding: 2rem 3.4rem 2.4rem 2rem;
+  height: 100%;
+  overflow: hidden;
+  position: relative;
+  display: flex;
+  flex-direction: column;
+  background-size: 100% 100%;
+  background-repeat: no-repeat;
+  background-position: center;
+  background-image: url('../assets/product-cover-221-bg.png');
+  flex-shrink: 0;
+}
+.courseworks-vWA .layout-2-ii2 .container-Fxr .carousel-4Yv .horizental-product-card-ZP4 .fixed-width-uC2 .tag-2XY {
+  margin-bottom: 27rem;
+  width: 5.1rem;
+  height: 2.4rem;
+  overflow: hidden;
+  position: relative;
+  text-align: center;
+  font-size: 1.4rem;
+  font-weight: 700;
+  line-height: 1.7142857143;
+  letter-spacing: 0.02rem;
+  color: #ffffff;
+  font-family: Montserrat, 'Source Sans Pro';
+  white-space: nowrap;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  box-shadow: 0 0.2rem 0.4rem rgba(0, 0, 0, 0.1000000015);
+  background-color: #e64040;
+  border-radius: 0.3rem;
+  flex-shrink: 0;
+}
+.courseworks-vWA .layout-2-ii2 .container-Fxr .carousel-4Yv .horizental-product-card-ZP4 .fixed-width-uC2 .product-actions-UPY {
+  margin-left: 1.5rem;
+  overflow: hidden;
+  position: relative;
+  display: flex;
+  column-gap: 1rem;
+  align-items: center;
+  flex-shrink: 0;
+}
+.courseworks-vWA .layout-2-ii2 .container-Fxr .carousel-4Yv .horizental-product-card-ZP4 .fixed-width-uC2 .product-actions-UPY .like-ogi {
+  width: 4rem;
+  height: 4rem;
+  object-fit: contain;
+  vertical-align: top;
+  border-radius: 4.4786rem;
+  flex-shrink: 0;
+}
+.courseworks-vWA .layout-2-ii2 .container-Fxr .carousel-4Yv .horizental-product-card-ZP4 .fixed-width-uC2 .product-actions-UPY .basket-MTL {
+  width: 4rem;
+  height: 4rem;
+  object-fit: contain;
+  vertical-align: top;
+  border-radius: 4.4786rem;
+  flex-shrink: 0;
+}
+.courseworks-vWA .layout-2-ii2 .container-Fxr .carousel-4Yv .horizental-product-card-ZP4 .fixed-width-uC2 .product-actions-UPY .like-JNa {
+  width: 4rem;
+  height: 4rem;
+  object-fit: contain;
+  vertical-align: top;
+  border-radius: 4.4786rem;
+  flex-shrink: 0;
+}
+.courseworks-vWA .layout-2-ii2 .container-Fxr .carousel-4Yv .horizental-product-card-ZP4 .frame-3-DkS {
+  margin: 2.5rem 0rem 5.9rem 0rem;
+  width: 24.2rem;
+  height: calc(100% - 8.4rem);
+  overflow: hidden;
+  position: relative;
+  flex-shrink: 0;
+}
+.courseworks-vWA .layout-2-ii2 .container-Fxr .carousel-4Yv .horizental-product-card-ZP4 .frame-3-DkS .frame-1-wAe {
+  margin-bottom: 1rem;
+  width: 100%;
+  height: 2.6rem;
+  overflow: hidden;
+  position: relative;
+  display: flex;
+  align-items: center;
+}
+.courseworks-vWA .layout-2-ii2 .container-Fxr .carousel-4Yv .horizental-product-card-ZP4 .frame-3-DkS .frame-1-wAe .frame-1-5ne {
+  margin: 0.1rem 4.7rem 0.1rem 0rem;
+  width: 14.5rem;
+  height: calc(100% - 0.2rem);
+  overflow: hidden;
+  position: relative;
+  font-size: 1.4rem;
+  font-weight: 700;
+  line-height: 1.7142857143;
+  letter-spacing: 0.02rem;
+  color: #23a6f0;
+  font-family: Montserrat, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.courseworks-vWA .layout-2-ii2 .container-Fxr .carousel-4Yv .horizental-product-card-ZP4 .frame-3-DkS .frame-1-wAe .frame-4-yt2 {
+  box-sizing: border-box;
+  padding: 0.5rem 0.5rem 0.5rem 0.55rem;
+  height: 100%;
+  overflow: hidden;
+  position: relative;
+  display: flex;
+  align-items: center;
+  background-color: #252b42;
+  border-radius: 2rem;
+  flex-shrink: 0;
+}
+.courseworks-vWA .layout-2-ii2 .container-Fxr .carousel-4Yv .horizental-product-card-ZP4 .frame-3-DkS .frame-1-wAe .frame-4-yt2 .icon-emojione-star-7jL {
+  margin-right: 0.55rem;
+  width: 1.5rem;
+  height: 1.45rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.courseworks-vWA .layout-2-ii2 .container-Fxr .carousel-4Yv .horizental-product-card-ZP4 .frame-3-DkS .frame-1-wAe .frame-4-yt2 .small-3cz {
+  font-size: 1.2rem;
+  font-weight: 400;
+  line-height: 1.3333333333;
+  letter-spacing: 0.02rem;
+  color: #ffffff;
+  font-family: Montserrat, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.courseworks-vWA .layout-2-ii2 .container-Fxr .carousel-4Yv .horizental-product-card-ZP4 .frame-3-DkS .h5-product-title-3-ZrE {
+  margin-bottom: 1rem;
+  font-size: 1.6rem;
+  font-weight: 700;
+  line-height: 1.5;
+  letter-spacing: 0.01rem;
+  color: #252b42;
+  font-family: Montserrat, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.courseworks-vWA .layout-2-ii2 .container-Fxr .carousel-4Yv .horizental-product-card-ZP4 .frame-3-DkS .paragraph-product-description-6rA {
+  margin-bottom: 1rem;
+  max-width: 24rem;
+  font-size: 1.4rem;
+  font-weight: 400;
+  line-height: 1.4285714286;
+  letter-spacing: 0.02rem;
+  color: #727272;
+  font-family: Montserrat, 'Source Sans Pro';
+}
+.courseworks-vWA .layout-2-ii2 .container-Fxr .carousel-4Yv .horizental-product-card-ZP4 .frame-3-DkS .sales-RNe {
+  margin: 0rem 11rem 2.5rem 0rem;
+  width: calc(100% - 11rem);
+  display: flex;
+  align-items: center;
+}
+.courseworks-vWA .layout-2-ii2 .container-Fxr .carousel-4Yv .horizental-product-card-ZP4 .frame-3-DkS .sales-RNe .frame-9pS {
+  margin: 0rem 1rem 0.01rem 0rem;
+  width: 1.6rem;
+  height: 1.39rem;
+  position: relative;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.courseworks-vWA .layout-2-ii2 .container-Fxr .carousel-4Yv .horizental-product-card-ZP4 .frame-3-DkS .sales-RNe .h6-fnn {
+  font-size: 1.4rem;
+  font-weight: 700;
+  line-height: 1.7142857143;
+  letter-spacing: 0.02rem;
+  color: #727272;
+  font-family: Montserrat, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.courseworks-vWA .layout-2-ii2 .container-Fxr .carousel-4Yv .horizental-product-card-ZP4 .frame-3-DkS .frame-1-1Lr {
+  margin-bottom: 2.5rem;
+  box-sizing: border-box;
+  padding-right: 0.1rem;
+  width: 100%;
+  height: 1.6rem;
+  overflow: hidden;
+  position: relative;
+  display: flex;
+  column-gap: 0.25rem;
+  align-items: center;
+}
+.courseworks-vWA .layout-2-ii2 .container-Fxr .carousel-4Yv .horizental-product-card-ZP4 .frame-3-DkS .frame-1-1Lr .frame-1-8RU {
+  width: 7.2rem;
+  height: 100%;
+  overflow: hidden;
+  position: relative;
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+}
+.courseworks-vWA .layout-2-ii2 .container-Fxr .carousel-4Yv .horizental-product-card-ZP4 .frame-3-DkS .frame-1-1Lr .frame-1-8RU .icon-akar-icons-calendar-HJN {
+  margin-right: 0.5rem;
+  width: 1.6rem;
+  height: 1.6rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.courseworks-vWA .layout-2-ii2 .container-Fxr .carousel-4Yv .horizental-product-card-ZP4 .frame-3-DkS .frame-1-1Lr .frame-1-8RU .small-onW {
+  font-size: 1.2rem;
+  font-weight: 400;
+  line-height: 1.3333333333;
+  letter-spacing: 0.02rem;
+  color: #727272;
+  font-family: Montserrat, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.courseworks-vWA .layout-2-ii2 .container-Fxr .carousel-4Yv .horizental-product-card-ZP4 .frame-3-DkS .frame-1-1Lr .frame-1-L1k {
+  box-sizing: border-box;
+  padding-left: 0.1rem;
+  height: 100%;
+  overflow: hidden;
+  position: relative;
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+}
+.courseworks-vWA .layout-2-ii2 .container-Fxr .carousel-4Yv .horizental-product-card-ZP4 .frame-3-DkS .frame-1-1Lr .frame-1-L1k .icon-carbon-chart-area-smooth-U7x {
+  margin-right: 0.6rem;
+  width: 1.4rem;
+  height: 1.4rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.courseworks-vWA .layout-2-ii2 .container-Fxr .carousel-4Yv .horizental-product-card-ZP4 .frame-3-DkS .frame-1-1Lr .frame-1-L1k .small-byG {
+  font-size: 1.2rem;
+  font-weight: 400;
+  line-height: 1.3333333333;
+  letter-spacing: 0.02rem;
+  color: #727272;
+  font-family: Montserrat, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.courseworks-vWA .layout-2-ii2 .container-Fxr .carousel-4Yv .horizental-product-card-ZP4 .frame-3-DkS .frame-1-1Lr .frame-1-LR4 {
+  height: 100%;
+  overflow: hidden;
+  position: relative;
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+}
+.courseworks-vWA .layout-2-ii2 .container-Fxr .carousel-4Yv .horizental-product-card-ZP4 .frame-3-DkS .frame-1-1Lr .frame-1-LR4 .icon-ant-design-area-chart-outlined-Vok {
+  margin: 0rem 0.5rem 0rem 0rem;
+  width: 1.6rem;
+  height: 1.4667rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.courseworks-vWA .layout-2-ii2 .container-Fxr .carousel-4Yv .horizental-product-card-ZP4 .frame-3-DkS .frame-1-1Lr .frame-1-LR4 .small-pLE {
+  font-size: 1.2rem;
+  font-weight: 400;
+  line-height: 1.3333333333;
+  letter-spacing: 0.02rem;
+  color: #727272;
+  font-family: Montserrat, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.courseworks-vWA .layout-2-ii2 .container-Fxr .carousel-4Yv .horizental-product-card-ZP4 .frame-3-DkS .button-sm-MLA {
+  margin-right: 6.5857rem;
+  box-sizing: border-box;
+  padding: 1rem 2rem 1rem 2rem;
+  width: calc(100% - 6.5857rem);
+  overflow: hidden;
+  position: relative;
+  display: flex;
+  align-items: center;
+  border: solid 0.1rem #23a6f0;
+  border-radius: 3.7rem;
+}
+.courseworks-vWA .layout-2-ii2 .container-Fxr .carousel-4Yv .horizental-product-card-ZP4 .frame-3-DkS .button-sm-MLA .h6-t5C {
+  margin-right: 0.1rem;
+  font-size: 1.4rem;
+  font-weight: 700;
+  line-height: 1.7142857143;
+  letter-spacing: 0.02rem;
+  color: #23a6f0;
+  font-family: Montserrat, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.courseworks-vWA .layout-2-ii2 .container-Fxr .carousel-4Yv .horizental-product-card-ZP4 .frame-3-DkS .button-sm-MLA .icn-arrow-right-icn-xs-19p {
+  width: 0.9143rem;
+  height: 1.6rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.courseworks-vWA .layout-2-ii2 .container-Fxr .carousel-4Yv .horizental-product-card-Vqg {
+  height: 100%;
+  overflow: hidden;
+  position: relative;
+  display: flex;
+  align-items: center;
+  background-color: #ffffff;
+  flex-shrink: 0;
+}
+.courseworks-vWA .layout-2-ii2 .container-Fxr .carousel-4Yv .horizental-product-card-Vqg .fixed-width-3MQ {
+  box-sizing: border-box;
+  padding: 2rem 3.4rem 2.4rem 2rem;
+  width: 20.9rem;
+  height: 100%;
+  overflow: hidden;
+  position: relative;
+  background-size: 100% 100%;
+  background-repeat: no-repeat;
+  background-position: center;
+  background-image: url('../assets/product-cover-220-bg.png');
+  flex-shrink: 0;
+}
+.courseworks-vWA .layout-2-ii2 .container-Fxr .carousel-4Yv .horizental-product-card-Vqg .fixed-width-3MQ .tag-N8n {
+  margin-bottom: 27rem;
+  width: 5.1rem;
+  height: 2.4rem;
+  overflow: hidden;
+  position: relative;
+  text-align: center;
+  font-size: 1.4rem;
+  font-weight: 700;
+  line-height: 1.7142857143;
+  letter-spacing: 0.02rem;
+  color: #ffffff;
+  font-family: Montserrat, 'Source Sans Pro';
+  white-space: nowrap;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  box-shadow: 0 0.2rem 0.4rem rgba(0, 0, 0, 0.1000000015);
+  background-color: #e64040;
+  border-radius: 0.3rem;
+}
+.courseworks-vWA .layout-2-ii2 .container-Fxr .carousel-4Yv .horizental-product-card-Vqg .fixed-width-3MQ .product-actions-Rsk {
+  margin-left: 1.5rem;
+  overflow: hidden;
+  position: relative;
+  display: flex;
+  column-gap: 1rem;
+  align-items: center;
+}
+.courseworks-vWA .layout-2-ii2 .container-Fxr .carousel-4Yv .horizental-product-card-Vqg .fixed-width-3MQ .product-actions-Rsk .like-xsg {
+  width: 4rem;
+  height: 4rem;
+  object-fit: contain;
+  vertical-align: top;
+  border-radius: 4.4786rem;
+  flex-shrink: 0;
+}
+.courseworks-vWA .layout-2-ii2 .container-Fxr .carousel-4Yv .horizental-product-card-Vqg .fixed-width-3MQ .product-actions-Rsk .basket-uY2 {
+  width: 4rem;
+  height: 4rem;
+  object-fit: contain;
+  vertical-align: top;
+  border-radius: 4.4786rem;
+  flex-shrink: 0;
+}
+.courseworks-vWA .layout-2-ii2 .container-Fxr .carousel-4Yv .horizental-product-card-Vqg .fixed-width-3MQ .product-actions-Rsk .like-ekW {
+  width: 4rem;
+  height: 4rem;
+  object-fit: contain;
+  vertical-align: top;
+  border-radius: 4.4786rem;
+  flex-shrink: 0;
+}
+.courseworks-vWA .layout-2-ii2 .container-Fxr .carousel-4Yv .horizental-product-card-Vqg .frame-3-ATx {
+  box-sizing: border-box;
+  padding: 2.5rem 0rem 3.5rem 2.5rem;
+  width: 29.2rem;
+  height: 100%;
+  overflow: hidden;
+  position: relative;
+  flex-shrink: 0;
+}
+.courseworks-vWA .layout-2-ii2 .container-Fxr .carousel-4Yv .horizental-product-card-Vqg .frame-3-ATx .frame-1-VFL {
+  margin: 0rem 2.5rem 1rem 0rem;
+  width: calc(100% - 2.5rem);
+  height: 2.6rem;
+  overflow: hidden;
+  position: relative;
+  display: flex;
+  align-items: center;
+}
+.courseworks-vWA .layout-2-ii2 .container-Fxr .carousel-4Yv .horizental-product-card-Vqg .frame-3-ATx .frame-1-VFL .frame-1-cqk {
+  margin: 0.1rem 3.7rem 0.1rem 0rem;
+  height: calc(100% - 0.2rem);
+  overflow: hidden;
+  position: relative;
+  font-size: 1.4rem;
+  font-weight: 700;
+  line-height: 1.7142857143;
+  letter-spacing: 0.02rem;
+  color: #23a6f0;
+  font-family: Montserrat, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.courseworks-vWA .layout-2-ii2 .container-Fxr .carousel-4Yv .horizental-product-card-Vqg .frame-3-ATx .frame-1-VFL .frame-4-7Gi {
+  box-sizing: border-box;
+  padding: 0.5rem 0.5rem 0.5rem 0.55rem;
+  width: 5rem;
+  height: 100%;
+  overflow: hidden;
+  position: relative;
+  display: flex;
+  align-items: center;
+  background-color: #252b42;
+  border-radius: 2rem;
+  flex-shrink: 0;
+}
+.courseworks-vWA .layout-2-ii2 .container-Fxr .carousel-4Yv .horizental-product-card-Vqg .frame-3-ATx .frame-1-VFL .frame-4-7Gi .icon-emojione-star-2uU {
+  margin-right: 0.55rem;
+  width: 1.5rem;
+  height: 1.45rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.courseworks-vWA .layout-2-ii2 .container-Fxr .carousel-4Yv .horizental-product-card-Vqg .frame-3-ATx .frame-1-VFL .frame-4-7Gi .small-yZp {
+  font-size: 1.2rem;
+  font-weight: 400;
+  line-height: 1.3333333333;
+  letter-spacing: 0.02rem;
+  color: #ffffff;
+  font-family: Montserrat, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.courseworks-vWA .layout-2-ii2 .container-Fxr .carousel-4Yv .horizental-product-card-Vqg .frame-3-ATx .h5-product-title-4-5sk {
+  margin-bottom: 1rem;
+  font-size: 1.6rem;
+  font-weight: 700;
+  line-height: 1.5;
+  letter-spacing: 0.01rem;
+  color: #252b42;
+  font-family: Montserrat, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.courseworks-vWA .layout-2-ii2 .container-Fxr .carousel-4Yv .horizental-product-card-Vqg .frame-3-ATx .paragraph-product-description-1Fc {
+  margin-bottom: 5rem;
+  font-size: 1.4rem;
+  font-weight: 400;
+  line-height: 1.4285714286;
+  letter-spacing: 0.02rem;
+  color: #727272;
+  font-family: Montserrat, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.courseworks-vWA .layout-2-ii2 .container-Fxr .carousel-4Yv .horizental-product-card-Vqg .frame-3-ATx .sales-jBc {
+  margin: 0rem 18.3rem 1.5rem 0rem;
+  width: calc(100% - 18.3rem);
+  display: flex;
+  align-items: center;
+}
+.courseworks-vWA .layout-2-ii2 .container-Fxr .carousel-4Yv .horizental-product-card-Vqg .frame-3-ATx .sales-jBc .frame-GBY {
+  margin: 0rem 1rem 0.01rem 0rem;
+  width: 1.6rem;
+  height: 1.39rem;
+  position: relative;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.courseworks-vWA .layout-2-ii2 .container-Fxr .carousel-4Yv .horizental-product-card-Vqg .frame-3-ATx .sales-jBc .h6-zdL {
+  font-size: 1.4rem;
+  font-weight: 700;
+  line-height: 1.7142857143;
+  letter-spacing: 0.02rem;
+  color: #727272;
+  font-family: Montserrat, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.courseworks-vWA .layout-2-ii2 .container-Fxr .carousel-4Yv .horizental-product-card-Vqg .frame-3-ATx .prices-LSJ {
+  margin: 0rem 16.1rem 3rem 0.2rem;
+  width: calc(100% - 16.3rem);
+  display: flex;
+  align-items: center;
+}
+.courseworks-vWA .layout-2-ii2 .container-Fxr .carousel-4Yv .horizental-product-card-Vqg .frame-3-ATx .prices-LSJ .h5-price-gFG {
+  margin-right: 0.3rem;
+  text-align: center;
+  font-size: 1.6rem;
+  font-weight: 700;
+  line-height: 1.5;
+  letter-spacing: 0.01rem;
+  color: #bdbdbd;
+  font-family: Montserrat, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.courseworks-vWA .layout-2-ii2 .container-Fxr .carousel-4Yv .horizental-product-card-Vqg .frame-3-ATx .prices-LSJ .h5-price-PvN {
+  text-align: center;
+  font-size: 1.6rem;
+  font-weight: 700;
+  line-height: 1.5;
+  letter-spacing: 0.01rem;
+  color: #40bb15;
+  font-family: Montserrat, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.courseworks-vWA .layout-2-ii2 .container-Fxr .carousel-4Yv .horizental-product-card-Vqg .frame-3-ATx .frame-1-ixe {
+  margin-bottom: 2.5rem;
+  box-sizing: border-box;
+  padding-right: 0.1rem;
+  width: 24.2rem;
+  height: 1.6rem;
+  overflow: hidden;
+  position: relative;
+  display: flex;
+  align-items: center;
+}
+.courseworks-vWA .layout-2-ii2 .container-Fxr .carousel-4Yv .horizental-product-card-Vqg .frame-3-ATx .frame-1-ixe .frame-1-3V8 {
+  margin-right: 1.35rem;
+  height: 100%;
+  overflow: hidden;
+  position: relative;
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+}
+.courseworks-vWA .layout-2-ii2 .container-Fxr .carousel-4Yv .horizental-product-card-Vqg .frame-3-ATx .frame-1-ixe .frame-1-3V8 .icon-akar-icons-calendar-bmY {
+  margin-right: 0.5rem;
+  width: 1.6rem;
+  height: 1.6rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.courseworks-vWA .layout-2-ii2 .container-Fxr .carousel-4Yv .horizental-product-card-Vqg .frame-3-ATx .frame-1-ixe .frame-1-3V8 .small-w4i {
+  font-size: 1.2rem;
+  font-weight: 400;
+  line-height: 1.3333333333;
+  letter-spacing: 0.02rem;
+  color: #727272;
+  font-family: Montserrat, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.courseworks-vWA .layout-2-ii2 .container-Fxr .carousel-4Yv .horizental-product-card-Vqg .frame-3-ATx .frame-1-ixe .frame-1-G6z {
+  margin-right: 1.15rem;
+  box-sizing: border-box;
+  padding-left: 0.1rem;
+  height: 100%;
+  overflow: hidden;
+  position: relative;
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+}
+.courseworks-vWA .layout-2-ii2 .container-Fxr .carousel-4Yv .horizental-product-card-Vqg .frame-3-ATx .frame-1-ixe .frame-1-G6z .icon-carbon-chart-area-smooth-1KU {
+  margin-right: 0.6rem;
+  width: 1.4rem;
+  height: 1.4rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.courseworks-vWA .layout-2-ii2 .container-Fxr .carousel-4Yv .horizental-product-card-Vqg .frame-3-ATx .frame-1-ixe .frame-1-G6z .small-X2v {
+  font-size: 1.2rem;
+  font-weight: 400;
+  line-height: 1.3333333333;
+  letter-spacing: 0.02rem;
+  color: #727272;
+  font-family: Montserrat, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.courseworks-vWA .layout-2-ii2 .container-Fxr .carousel-4Yv .horizental-product-card-Vqg .frame-3-ATx .frame-1-ixe .frame-1-edL {
+  height: 100%;
+  overflow: hidden;
+  position: relative;
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+}
+.courseworks-vWA .layout-2-ii2 .container-Fxr .carousel-4Yv .horizental-product-card-Vqg .frame-3-ATx .frame-1-ixe .frame-1-edL .icon-ant-design-area-chart-outlined-p22 {
+  margin: 0rem 0.5rem 0rem 0rem;
+  width: 1.6rem;
+  height: 1.4667rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.courseworks-vWA .layout-2-ii2 .container-Fxr .carousel-4Yv .horizental-product-card-Vqg .frame-3-ATx .frame-1-ixe .frame-1-edL .small-8YW {
+  font-size: 1.2rem;
+  font-weight: 400;
+  line-height: 1.3333333333;
+  letter-spacing: 0.02rem;
+  color: #727272;
+  font-family: Montserrat, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.courseworks-vWA .layout-2-ii2 .container-Fxr .carousel-4Yv .horizental-product-card-Vqg .frame-3-ATx .button-sm-U6a {
+  margin-right: 12.5857rem;
+  box-sizing: border-box;
+  padding: 1rem 2rem 1rem 2rem;
+  width: calc(100% - 12.5857rem);
+  overflow: hidden;
+  position: relative;
+  display: flex;
+  align-items: center;
+  border: solid 0.1rem #23a6f0;
+  border-radius: 3.7rem;
+}
+.courseworks-vWA .layout-2-ii2 .container-Fxr .carousel-4Yv .horizental-product-card-Vqg .frame-3-ATx .button-sm-U6a .h6-Z82 {
+  margin-right: 0.7rem;
+  font-size: 1.4rem;
+  font-weight: 700;
+  line-height: 1.7142857143;
+  letter-spacing: 0.02rem;
+  color: #23a6f0;
+  font-family: Montserrat, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.courseworks-vWA .layout-2-ii2 .container-Fxr .carousel-4Yv .horizental-product-card-Vqg .frame-3-ATx .button-sm-U6a .icn-arrow-right-icn-xs-sPc {
+  width: 0.9143rem;
+  height: 1.6rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
